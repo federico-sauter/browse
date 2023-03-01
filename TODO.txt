@@ -1,0 +1,10 @@
+browse(1) program TODO list
+===========================
+
++ When grep(1) is called with only ONE argument, then the filename is not
+	output on each line. Support this case.
+
++ Calculate the width of the filepath+line number / description based on the screen geometry
+	Make that the selected match fits the screen
+
++ Support resizing of the screen
